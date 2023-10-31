@@ -1,0 +1,21 @@
+* {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
+
+main h1{
+    font-size: 3vh;
+    padding: 10px;
+    display: flex;
+    justify-content: center;
+    background-color: aqua;
+}
+
+main form {
+    display: flex;
+    font-size: 4vh;
+    padding-top: 250px;
+    justify-content: center;
+}
